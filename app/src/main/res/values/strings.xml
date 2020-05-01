@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Taller Final Android-Firebase.</string>
+    <string name="lblTutulo">Notas - Alumnos.</string>
+    <string name="txtFields">Ingrese codigo de matricula del alumno. </string>
+    <string name="txtCodigoMatricula"></string>
+    <string name="txtFields2">Nombres y apellidos. </string>
+    <string name="txtNombresApellidos"></string>
+ <string name="txtFields3">Ingrese NOTAS del alumno. </string>
+ <string name="txtFields4">Nota 1. </string>
+ <string name="txtFields5">Nota 2. </string>
+ <string name="txtFields6">Nota 3. </string>
+ <string name="txtFields7"> NOTAS FINAL DEL ALUMNO. </string>
+    <string name="txtNota1"></string>
+    <string name="txtNota2"></string>
+    <string name="txtNota3"></string>
+    <string name="lblNotaF"></string>
+    <string name="btbGuardar">Guardar</string>
+    <string name="btnCalcular">Nota Final</string>
+
+</resources>
